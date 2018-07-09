@@ -1,0 +1,20 @@
+{
+  "name": "dash-wind-streaming",
+  "version": "1.0.0",
+  "description": "**Dash Wind Streaming App** Dash abstracts away all of the technologies and protocols required to build an interactive web-based application and is a simple and effective way to bind a user interface around your Python code.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec 'python3 app.py' --ext py --watch ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plotly/dash-wind-streaming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plotly/dash-wind-streaming/issues"
+  },
+  "homepage": "https://github.com/plotly/dash-wind-streaming#readme"
+}
